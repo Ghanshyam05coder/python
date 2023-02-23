@@ -1,0 +1,5 @@
+#to calculate of circle.
+r=float(input("enter the r :"))
+pi=3.14
+cir=2*pi*r
+print(cir)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

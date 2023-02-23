@@ -1,0 +1,12 @@
+import turtle
+turtle.speed (0)
+t=turtle.Turtle()
+turtle .bgcolor("black")
+turtle.speed(0)
+
+for i in range (50):
+    
+        for colour in ["red","magenta","blue"
+            turtle.colour(colours)
+            turtle.pensize(3)
+            ]
